@@ -10,11 +10,13 @@ Infraestrutura:
 
 - Setar as Permissoes do Gitpod ao Repositorio no Github
 
-- Subir o Airbyte via docker 
+- Instalar as extensões (Docker)
 
-- Subir o Airflow via docker 
+- Subir o Airbyte via docker (docker-compose.yaml)
 
-- Subir o Metabase via docker
+- Subir o Airflow via docker (docker-compose.yaml)
+
+- Subir o Metabase via docker (docker-compose.yaml)
 
 - Criar o script de execução 
 
